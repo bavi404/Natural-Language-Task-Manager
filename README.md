@@ -2,37 +2,36 @@
 
 A modern, AI-powered web app to manage tasks entered in natural language! 🚀
 
-## ✨ Features
-✅ Add tasks using natural language like:  
+##  Features
+Add tasks using natural language like:  
 ```
 
 Finish landing page Aman by 11pm 20th June
 
 ````
 
-✅ Automatically extracts:
+ Automatically extracts:
 - **Task Name**
 - **Assignee** (first proper noun after the first word)
 - **Due Date & Time** (using natural language parsing)
 - **Priority** (defaults to P3 unless specified as P1, P2, or P4)
-
-✅ Display tasks in a **beautiful, modern UI task board** with:
+ Display tasks in a **beautiful, modern UI task board** with:
 - Colorful priority badges  
 - Smooth hover animations  
 - Edit functionality
 
-✅ **Local storage persistence** – your tasks stay even after refreshing!
+ **Local storage persistence** – your tasks stay even after refreshing!
 
 ---
 
-## 🛠️ Built With
+##  Built With
 - **React.js** (Create React App)  
 - **chrono-node** for natural language date parsing  
 - **CSS Grid & Flexbox** for a responsive, card-based UI
 
 ---
 
-## ⚙️ Getting Started
+##  Getting Started
 
 1️⃣ **Clone the repository**:
 ```bash
@@ -56,7 +55,7 @@ Visit [http://localhost:3000](http://localhost:3000) to use the app!
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 src/
@@ -71,11 +70,11 @@ src/
 
 ---
 
-## 🚀 Deployment
+##  Deployment
 
 To create a production-ready build:
 
-```bash
+```
 npm run build
 ```
 
@@ -83,7 +82,7 @@ You can then deploy the `build/` folder to platforms like **Netlify**, **Vercel*
 
 ---
 
-## 💡 Future Enhancements
+##  Future Enhancements
 
 * Task **deletion & marking as done**
 * **Sorting & filtering** (by date, priority, assignee)
@@ -92,24 +91,24 @@ You can then deploy the `build/` folder to platforms like **Netlify**, **Vercel*
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ![Task Manager Screenshot](./screenshot.png)
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License.
 
 ---
 
-## ✍️ Author
+## Author
 
 **Bavishya Sankaranarayanan**
 [LinkedIn](https://www.linkedin.com/in/bavishya-sankaranarayanan/) | [GitHub](https://github.com/your-username)
 
 ---
 
-### ⭐️ Contributions are welcome! Let’s make task management smarter, simpler, and more beautiful together. 🚀
+###  Contributions are welcome! Let’s make task management smarter, simpler, and more beautiful together. 
 
