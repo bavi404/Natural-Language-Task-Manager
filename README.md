@@ -1,6 +1,6 @@
 # Natural Language Task Manager
 
-A modern, AI-powered web app to manage tasks entered in natural language! 🚀
+A modern, AI-powered web app to manage tasks entered in natural language! 
 
 ##  Features
 Add tasks using natural language like:  
@@ -88,12 +88,6 @@ You can then deploy the `build/` folder to platforms like **Netlify**, **Vercel*
 * **Sorting & filtering** (by date, priority, assignee)
 * Integration with a **database** for multi-device syncing
 * **User authentication** for personalized task boards
-
----
-
-## Screenshots
-
-![Task Manager Screenshot](./screenshot.png)
 
 ---
 
